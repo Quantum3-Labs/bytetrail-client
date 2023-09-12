@@ -158,9 +158,7 @@ function DashboardWithTx() {
                     fontSize={"xs"}
                     fontStyle={"italic"}
                   >
-                    KYC score is generated based on an algorithm which basically
-                    needs a more polished explanation because I haven’t think of
-                    one yet.
+                    KYC score is generated based on an algorithm developed by bytetrail labs.
                   </Text>
                 </HStack>
               </VStack>
